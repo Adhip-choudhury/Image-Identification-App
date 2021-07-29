@@ -1,0 +1,56 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background: linear-gradient(to bottom, #ffcccc 0%, #ff9966 100%);
+}
+
+.header{
+    background-color: white;
+    color:#ce2700;
+
+}
+
+.Capture_img{
+    width: 300px;
+    box-shadow: 5px 10px 18px rgb(255, 255, 255);
+}
+
+.camera-div{
+    background-color: linear-gradient(to bottom, #ffcccc 0%, #ff9966 100%);
+    
+
+}
+
+.camera-div label, .ruselt-div label{
+    width: 300px;
+    height: 30px;
+    background-color: white;
+    box-shadow: 5px 10px 18px rgb(255, 255, 255);
+    margin-top: 10px;
+}
+
+#camera, #result{
+    border: 3px solid rgb(255, 255, 255);
+    width: 300px;
+    height: 300px;
+    box-shadow: 5px 10px 18px rgb(255, 255, 255);
+}
+
+.footer-div{
+    margin: 50px;
+    width: 95%;
+    height: 20%;
+    background: linear-gradient(to bottom, #ff9933 0%, #ff3300 100%);
+}
+.footer-div img{
+    width: 100px;
+}
+
+.name{
+    position: fixed ;
+    background-color: white;
+    color: tomato;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+}
